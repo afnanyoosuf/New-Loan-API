@@ -17,3 +17,10 @@ def predict(income: int, age: int):
         return {"loan": "Approved"}
 
     return {"loan": "Rejected"}
+
+
+@app.get("/health")
+def health():
+    return {
+        "status": "API is running"
+    }
