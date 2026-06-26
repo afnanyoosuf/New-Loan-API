@@ -1,6 +1,6 @@
 # Loan Eligibility API
 
-Version B
+Version A and Version B merged successfully.
 
 Endpoints
 
