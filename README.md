@@ -1,6 +1,6 @@
 # Loan Eligibility API
 
-This is a simple FastAPI project.
+Version B
 
 Endpoints
 
